@@ -131,9 +131,7 @@ Analytics: Track completion events
 ## 📞 Support
 
 For technical support, feature requests, or bug reports:
-- Email: support@countdowntimerpro.com
-- Documentation: https://docs.countdowntimerpro.com
-- Community: https://community.countdowntimerpro.com
+- Email: p.a.a.n.v.inc@gmail.com
 
 ## 📄 License
 
